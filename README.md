@@ -20,7 +20,7 @@ Made with basic HTML and CSS.
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/diwanshu-lab/LinkList/search?l=css)&nbsp;
 
 ## Sneak Peek of Web Page 🙈 :
-![linklist](Screenshot 2024-12-10 at 23-40-08 Link List Diwanshu V1.png)
+![linklist](https://github.com/user-attachments/assets/8ff9735a-881f-4b85-98f4-274e8d3b0ddb)
 
 
 
